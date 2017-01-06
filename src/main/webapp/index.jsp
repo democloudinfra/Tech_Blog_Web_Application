@@ -44,7 +44,7 @@
         	<p>&nbsp;</p>
 <p>&nbsp;</p>
             
-            <div id="footer"><h3><a href="http://www.bryantsmith.com">florida web design</a></h3></div>
+            <div id="footer"><h3><a href="http://www.capgemini.com">capgemini web design</a></h3></div>
       </div>
    </div>
 </body>
