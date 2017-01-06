@@ -3,14 +3,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css" />
-<title>WhiteFlower| florida web design</title>
+<title>Tech Web Site| florida tech design</title>
 </head>
 
 <body>
 <div id="container">
 		<div id="mainpic">
-        	<h1>White<span class="lighter">Flower</span></h1>
-            <h2>A template by Bryant Smith</h2>
+        	<h1>Tech<span class="lighter">Mania</span></h1>
+            <h2>A tech web by Capgemini</h2>
         </div>   
         
         <div id="menu">
