@@ -1,5 +1,4 @@
-# example-tomcat-war
+# Tech Blog
 
-This is an example java build and deploy of the resulting
-war file to a tomcat 7 server.
+This is an tech blog website.
 
