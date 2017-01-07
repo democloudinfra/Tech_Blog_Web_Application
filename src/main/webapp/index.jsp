@@ -10,7 +10,7 @@
 <div id="container">
 		<div id="mainpic">
         	<h1>Tech<span class="lighter">Mania</span></h1>
-            <h2>A tech web by Capgemini3</h2>
+            <h2>A tech web by Capgemini4</h2>
         </div>   
         
         <div id="menu">
