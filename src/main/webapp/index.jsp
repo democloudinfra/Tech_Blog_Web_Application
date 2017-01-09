@@ -21,7 +21,6 @@
                 <li class="menuitem"><a href="#">Careers</a></li>
                 <li class="menuitem"><a href="#">About Us</a></li>
               <li class="menuitem"><a href="#">Investors</a></li>
-			  <li class="menuitem"><a href="#">Newsroom</a></li>
             </ul>
         </div>
         
