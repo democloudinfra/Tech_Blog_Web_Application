@@ -29,16 +29,16 @@
         	<p>&nbsp;</p>
            	<p>&nbsp;</p>
        	  <h3>Template Notes</h3>
-        	<p>The main image can be changed by either replacing the current image with another one of the same size (900x402), or using a new one of what ever dimensions you'd like.  If you choose the latter, you must open up style.css and change the dimensions of #mainpic, as well as the file name if that is different. If you would like to move the heading around in the above image, find &quot;#mainpic h1&quot; in style.css and modify it's &quot;left&quot; and &quot;top&quot; properties, this is also true for the h2 tag.</p>
+        	<p>Capgemini, and SAP™, the world’s market leader in enterprise application software, have broadened their strategic partnership with the launch of the “Fast Digital 4 Discrete Industries by SAP and Capgemini” initiative. This joint initiative helps clients in discrete manufacturing industries manage their digital transformation as they seek to adopt innovative concepts driven by Industry 4.0: the industrial Internet of Things, Cloud, Big Data, and Smart Automation.</p>
         	<p>&nbsp;</p>
-<h3>More information</h3>
-        	<p>I decided to leave the content portion open for the templates users to do as they wish with a blank canvas. I don't like to restrict my users too much, and for this reason I leave the defining of any content related styles to you. <a href="#">This is what a normal links looks like</a>.</p>
+<h3>How Capgemini Collaborates with Our Startup Ecosystem</h3>
+        	<p>Discover how our Applied Innovation Exchange supports innovation through interactions and collaboration with startups. Capgemini is able to integrate innovators into our ecosystem and acts as a bridge between them and worldwide companies.</p>
         	<p>&nbsp;</p>
-        	<h3>Template Notes</h3>
-            <p>The main image can be changed by either replacing the current image with another one of the same size (900x402), or using a new one of what ever dimensions you'd like.  If you choose the latter, you must open up style.css and change the dimensions of #mainpic, as well as the file name if that is different. If you would like to move the heading around in the above image, find &quot;#mainpic h1&quot; in style.css and modify it's &quot;left&quot; and &quot;top&quot; properties, this is also true for the h2 tag.</p>
+        	<h3>Changing how we work: the impact of automation on today’s enterprise</h3>
+            <p>"Changing How We Work", the latest PoV from Group’s Automation Drive, tackles some of the most common misconceptions about automation and presents a clear-eyed view of potential business benefits and hurdles we may face in achieving them. It also elaborates on how our business approach around automation, can lead to new sources of revenue, actionable insights, reduced time to market and lower costs.</p>
             <p>&nbsp;</p>
-        	<h3>More information</h3>
-            <p>I decided to leave the content portion open for the templates users to do as they wish with a blank canvas. I don't like to restrict my users too much, and for this reason I leave the defining of any content related styles to you.</p>
+        	<h3>Real-time Planning and Analytics at NATS using SAP's Digital HANA technologies</h3>
+            <p>NATS, a UK-based air-traffic control service provider faced this challenge as it looked to refresh its existing SAP Business Planning and Reporting systems. With support from Capgemini, NATS was able to continue its pedigree of making incremental, considered enhancements that offer huge efficiency benefits.</p>
             <p>&nbsp;</p>
         	<p>&nbsp;</p>
         	<p>&nbsp;</p>
