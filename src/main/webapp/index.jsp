@@ -3,14 +3,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css" />
-<title>Tech Web Site| florida tech design</title>
+<title>Capgemini Web Site| Capgemini tech design</title>
 </head>
 
 <body>
 <div id="container">
 		<div id="mainpic">
-        	<h1>Tech<span class="lighter">Mania</span></h1>
-            <h2>A tech web by Capgemini5</h2>
+        	<h1>Cap<span class="lighter">gemini</span></h1>
+            <h2>Welcome to Capgemini</h2>
         </div>   
         
         <div id="menu">
