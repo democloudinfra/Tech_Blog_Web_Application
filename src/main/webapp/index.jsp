@@ -8,7 +8,11 @@
 
 <body>
 <div id="container">
-  
+		<div id="mainpic">
+        	<h1><span class="lighter"></span></h1>
+            <h2></h2>
+        </div>   
+        
         <div id="menu">
         	<ul>
             	<li class="menuitem"><a href="#">Insights</a></li>
