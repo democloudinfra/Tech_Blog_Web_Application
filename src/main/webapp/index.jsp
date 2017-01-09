@@ -25,7 +25,7 @@
         </div>
         
 		<div id="content">
-        	<h2>You may use this template in any manner you like. All I ask is that you leave the link back to my site at the bottom of the page. </h2>
+        	<h2>Empowering Discrete Manufacturers for the Digital Age </h2>
         	<p>&nbsp;</p>
            	<p>&nbsp;</p>
        	  <h3>Template Notes</h3>
