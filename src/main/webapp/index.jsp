@@ -28,7 +28,7 @@
         	<h2>Empowering Discrete Manufacturers for the Digital Age </h2>
         	<p>&nbsp;</p>
            	<p>&nbsp;</p>
-       	  <h3>Template Notes</h3>
+       	  <h3>Digital Customer Operations</h3>
         	<p>Capgemini, and SAP™, the world’s market leader in enterprise application software, have broadened their strategic partnership with the launch of the “Fast Digital 4 Discrete Industries by SAP and Capgemini” initiative. This joint initiative helps clients in discrete manufacturing industries manage their digital transformation as they seek to adopt innovative concepts driven by Industry 4.0: the industrial Internet of Things, Cloud, Big Data, and Smart Automation.</p>
         	<p>&nbsp;</p>
 <h3>How Capgemini Collaborates with Our Startup Ecosystem</h3>
