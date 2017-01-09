@@ -8,11 +8,7 @@
 
 <body>
 <div id="container">
-		<div id="mainpic">
-        	#<h1>Cap<span class="lighter">gemini</span></h1>
-            #<h2>Welcome to Capgemini</h2>
-        </div>   
-        
+  
         <div id="menu">
         	<ul>
             	<li class="menuitem"><a href="#">Insights</a></li>
