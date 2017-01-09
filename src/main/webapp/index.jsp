@@ -9,8 +9,8 @@
 <body>
 <div id="container">
 		<div id="mainpic">
-        	<h1>Cap<span class="lighter">gemini</span></h1>
-            <h2>Welcome to Capgemini</h2>
+        	#<h1>Cap<span class="lighter">gemini</span></h1>
+            #<h2>Welcome to Capgemini</h2>
         </div>   
         
         <div id="menu">
@@ -34,8 +34,8 @@
 <h3>How Capgemini Collaborates with Our Startup Ecosystem</h3>
         	<p>Discover how our Applied Innovation Exchange supports innovation through interactions and collaboration with startups. Capgemini is able to integrate innovators into our ecosystem and acts as a bridge between them and worldwide companies.</p>
         	<p>&nbsp;</p>
-        	<h3>Changing how we work: the impact of automation on today ’s enterprise</h3>
-            <p>"Changing How We Work", the latest PoV from Group ’s Automation Drive, tackles some of the most common misconceptions about automation and presents a clear-eyed view of potential business benefits and hurdles we may face in achieving them. It also elaborates on how our business approach around automation, can lead to new sources of revenue, actionable insights, reduced time to market and lower costs.</p>
+        	<h3>Changing how we work: the impact of automation on todays enterprise</h3>
+            <p>"Changing How We Work", the latest PoV from Groups Automation Drive, tackles some of the most common misconceptions about automation and presents a clear-eyed view of potential business benefits and hurdles we may face in achieving them. It also elaborates on how our business approach around automation, can lead to new sources of revenue, actionable insights, reduced time to market and lower costs.</p>
             <p>&nbsp;</p>
         	<h3>Real-time Planning and Analytics at NATS using SAP's Digital HANA technologies</h3>
             <p>NATS, a UK-based air-traffic control service provider faced this challenge as it looked to refresh its existing SAP Business Planning and Reporting systems. With support from Capgemini, NATS was able to continue its pedigree of making incremental, considered enhancements that offer huge efficiency benefits.</p>
