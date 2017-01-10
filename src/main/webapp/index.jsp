@@ -15,7 +15,7 @@
         
         <div id="menu">
         	<ul>
-            	<li class="menuitem"><a href="#">Insights</a></li>
+            	<li class="menuitem"><a href="#">Home</a></li>
                 <li class="menuitem"><a href="#">Services</a></li>
                 <li class="menuitem"><a href="#">Expert Connect</a></li>
                 <li class="menuitem"><a href="#">Careers</a></li>
